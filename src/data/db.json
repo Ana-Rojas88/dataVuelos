@@ -1,0 +1,86 @@
+{
+  "vuelos": [
+    {
+        "id": 1,
+      "destino": "Montería",
+      "origen": "Medellín",
+      "regresoDate": "2022-11-18",
+      "salidaDate": "2022-11-16",
+      "timeSalida":"12:00 pm - 14:00 pm ",
+      "timeRegreso":"8:00 am - 10:00 am ",
+      "precio": "120.000"
+    },
+    {
+        "id": 2,
+      "destino": "Bogotá",
+      "origen": "Medellín",
+      "regresoDate": "2022-11-18",
+      "salidaDate": "2022-11-16",
+      "timeSalida":"10:00 pm - 12:00 am ",
+      "timeRegreso":"6:00 am - 8:00 am ",
+      "precio": "150.000"
+    },
+    {
+        "id": 3,
+      "destino": "Cartagena",
+      "origen": "Medellín",
+      "regresoDate": "2022-11-20",
+      "salidaDate": "2022-11-18",
+      "timeSalida":"10:50 pm - 12:40 am ",
+      "timeRegreso":"6:50 am - 8:40 am ",
+      "precio": "130.000"
+    },
+    {
+        "id": 4,
+      "destino": "Cali",
+      "origen": "Bogotá",
+      "regresoDate": "2022-11-25",
+      "salidaDate": "2022-11-20",
+      "timeSalida":"11:30 pm - 2:30 am ",
+      "timeRegreso":"7:00 am - 10:00 am ",
+      "precio": "170.000"
+    },
+    {
+        "id": 5,
+      "destino": "Bogotá",
+      "origen": "Bucaramanga",
+      "regresoDate": "2022-11-03",
+      "salidaDate": "2022-10-30",
+      "timeSalida":"10:45 pm - 12:00 am ",
+      "timeRegreso":"6:45 am - 8:00 am ",
+      "precio": "110.000"
+    },
+    {
+        "id": 6,
+      "destino": "Medellín",
+      "origen": "Cúcuta",
+      "regresoDate": "2022-10-29",
+      "salidaDate": "2022-10-28",
+      "timeSalida":"10:00 pm - 12:50 am ",
+      "timeRegreso":"10:00 am - 12:50 pm ",
+      "precio": "180.000"
+    },
+    {
+      "id": 7,
+    "destino": "Medellín",
+    "origen": "San Andrés",
+    "regresoDate": "2022-11-29",
+    "salidaDate": "2022-11-28",
+    "timeSalida":"10:00 pm - 12:50 am ",
+    "timeRegreso":"10:00 pm - 00:50 am ",
+    "precio": "250.000"
+  },
+  {
+    "id": 8,
+  "destino": "Montería",
+  "origen": "Medellín",
+  "regresoDate": "2022-11-25",
+  "salidaDate": "2022-11-12",
+  "timeSalida":"14:00 pm - 16:00 pm ",
+  "timeRegreso":"10:00 am - 12:00 pm ",
+  "precio": "120.000"
+}
+    
+  ]
+
+}
